@@ -3,3 +3,7 @@
 # realloc
 
 A python-based staff allocation tool designed to find the optimal assignment of staff members to shifts based on their availability and preferences.
+
+## Updated Backend
+
+An extension has been made to the realloc backend (https://github.com/hobrien17/realloc-adv), using theorem proving to generate allocations instead of optimisation algorithms.
